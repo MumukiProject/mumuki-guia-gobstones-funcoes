@@ -1,0 +1,28 @@
+check_head_position: true
+
+subject: MoverConformePedras
+
+examples:
+ - title: Se há mais de 10 pedras, se move ao Leste
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Azul 3 Negro 2 Rojo 4 Verde 3
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Azul 3 Negro 2 Rojo 4 Verde 3
+     head 1 0
+ 
+ - title: Se há menos de 10 pedras, se move ao Norte
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Azul 3 Negro 2
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Azul 3 Negro 2
+     head 0 1

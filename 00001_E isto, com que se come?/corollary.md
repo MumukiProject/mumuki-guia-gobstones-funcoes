@@ -1,0 +1,3 @@
+Demorou entender o que ele faz sem ser **executado**, né?
+
+Isso é sinal de que está faltando **dividir em subtarefas**...
