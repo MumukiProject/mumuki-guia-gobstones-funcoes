@@ -1,0 +1,35 @@
+subject: haPedrasAo
+
+examples:
+ - arguments:
+   - Leste
+   - Verde
+   initial_board: |
+     GBB/1.0
+     size 3 3
+     cell 1 0 Verde 1
+     cell 0 1 Rojo 1
+     head 0 0
+   return: 'True'
+   
+ - arguments:
+   - Norte
+   - Verde
+   initial_board: |
+     GBB/1.0
+     size 3 3
+     cell 1 0 Verde 1
+     cell 0 1 Rojo 1
+     head 0 0
+   return: 'False'
+   
+ - arguments:
+   - Norte
+   - Vermelho
+   initial_board: |
+     GBB/1.0
+     size 3 3
+     cell 1 0 Verde 1
+     cell 0 1 Rojo 1
+     head 0 0
+   return: 'True'

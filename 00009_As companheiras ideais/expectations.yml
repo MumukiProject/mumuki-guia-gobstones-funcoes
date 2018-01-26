@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity2:haPedrasAo
+- binding: haPedrasAo
+  inspection: Uses:Mover
