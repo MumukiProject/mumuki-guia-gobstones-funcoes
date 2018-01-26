@@ -1,0 +1,3 @@
+function nroPedrasTotal() {
+  return (nroPedras(Azul) + nroPedras(Preto) + nroPedras(Vermelho) + nroPedras(Verde))
+}
