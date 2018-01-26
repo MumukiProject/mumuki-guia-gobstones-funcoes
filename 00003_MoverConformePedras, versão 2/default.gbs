@@ -1,0 +1,8 @@
+procedure MoverConformePedras() {
+  if (nroPedras(Azul) + nroPedras(Preto) + nroPedras(Vermelho) + nroPedras(Verde) > 10) {
+    Mover(Leste)
+  } else {
+    Mover(Norte)
+  }
+}
+
