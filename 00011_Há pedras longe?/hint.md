@@ -1,0 +1,1 @@
+A idéia de _"mover a garra muitas vezes"_ já resolvemos várias lições atrás com o procedimento `MoverN`. O que acha de usar esse procedimento? :wink:
