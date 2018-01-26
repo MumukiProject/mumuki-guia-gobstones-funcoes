@@ -1,0 +1,1 @@
+Lembre que existe a função `haPedras(cor)`, que indica se há alguma pedra da cor especificada. Além disso, o operador `||` pode ser usado várias vezes, como se fosse uma soma: `umaCoisa || outraCoisa || otraCoisaMais`.
