@@ -1,0 +1,4 @@
+function haPedrasAo(direcao, cor) {
+    Mover(direcao)
+    return (haPedras(cor))
+}

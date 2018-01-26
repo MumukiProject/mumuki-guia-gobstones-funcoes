@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: haTabuleiroEPedrasAo
+  inspection: Uses:haPedrasAo
+- binding: haTabuleiroEPedrasAo
+  inspection: Uses:podeMover
