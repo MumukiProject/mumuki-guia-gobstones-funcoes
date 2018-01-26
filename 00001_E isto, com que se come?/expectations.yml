@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: MoverConformePedras
+  inspection: UsesIf
+- binding: MoverConformePedras
+  inspection: Uses:nroPedras
