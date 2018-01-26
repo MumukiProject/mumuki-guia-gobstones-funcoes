@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: estouRodeadoDe
+  inspection: Uses:haPedrasAo
