@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: eLivreLados
+  inspection: Uses:podeMover

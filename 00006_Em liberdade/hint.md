@@ -1,0 +1,1 @@
+Não esqueça de que existe uma função `podeMover(direcao)`! :wink:
