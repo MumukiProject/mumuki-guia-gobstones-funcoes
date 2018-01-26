@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: estouLimitada
+  inspection: Uses:estouRodeadoDe
+- binding: estouLimitada
+  inspection: Uses:estouEmUmaBorda

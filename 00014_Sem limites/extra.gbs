@@ -1,0 +1,12 @@
+function haPedrasAo(direcao, cor) {
+    Mover(direcao)
+    return (haPedras(cor))
+}
+
+function estouRodeadoDe(cor) {
+    return (haPedrasAo(Norte, cor) && haPedrasAo(Leste, cor) && haPedrasAo(Sul, cor) && haPedrasAo(Oeste, cor))
+}
+
+function estouEmUmaBorda () {
+    return (not podeMover(Norte) || not podeMover(Leste) || not podeMover(Sul) || not podeMover(Oeste))
+}

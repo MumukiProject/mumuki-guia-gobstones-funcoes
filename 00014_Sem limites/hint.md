@@ -1,0 +1,1 @@
+Cuidado com a **ordem** das expressões: para poder perguntar se **está rodeado**, primeiro deveria checar se **está em uma borda**.
