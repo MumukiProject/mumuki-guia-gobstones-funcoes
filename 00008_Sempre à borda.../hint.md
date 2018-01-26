@@ -1,0 +1,1 @@
+Se a garra está em uma borda, **não pode se mover** em **alguma** direção. :smirk:

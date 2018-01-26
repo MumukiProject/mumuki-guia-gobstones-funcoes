@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: estouEmUmaBorda
+  inspection: Uses:podeMover
