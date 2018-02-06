@@ -1,4 +1,4 @@
-> Execute a função haAlgumaPedra() que responda a pregunta há alguma pedra na célula atual?
+> Execute a função `haAlgumaPedra()` que responda a pregunta há alguma pedra na célula atual?
 
 Outra vez uma pergunta, portanto é necessário devolver um **booleano**. Além disso, podemos ver que aqui também é preciso fazer **mais de uma pergunta**, na realidade quatro: uma por cada uma das cores.
 
