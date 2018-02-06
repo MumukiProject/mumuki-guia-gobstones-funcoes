@@ -7,6 +7,6 @@ function estouRodeadoDe(cor) {
     return (haPedrasAo(Norte, cor) && haPedrasAo(Leste, cor) && haPedrasAo(Sul, cor) && haPedrasAo(Oeste, cor))
 }
 
-function estouEmUmaBorda () {
+function estouEmUmaBorda() {
     return (not podeMover(Norte) || not podeMover(Leste) || not podeMover(Sul) || not podeMover(Oeste))
 }
